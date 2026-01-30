@@ -1,0 +1,7 @@
+emp_id,emp_name,salary,dept_name,location,hire_date
+101,Nikhil,60000.00,IT,Bangalore,2022-01-15
+102,Amit,55000.00,HR,Mumbai,2021-03-10
+103,Priya,72000.00,Finance,Delhi,2020-07-22
+104,Rahul,48000.00,Operations,Chennai,2023-02-05
+105,Sneha,65000.00,IT,Bangalore,2021-11-18
+106,Karan,50000.00,Sales,Hyderabad,2022-06-30
